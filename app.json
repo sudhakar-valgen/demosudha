@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "demosudha",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
